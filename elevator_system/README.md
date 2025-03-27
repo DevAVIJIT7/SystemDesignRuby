@@ -1,7 +1,7 @@
 <!-- ABOUT THE PROJECT -->
 ## Elevator System
 
-Designing an Elevator System requires handling multiple floors, multiple elevators, and managing requests to call the elevator. The system should ensure that elevators serve the floors efficiently, with a priority on minimizing wait times for users. We'll need to consider different types of requests (e.g., going up or down, floors that need to be served), the state of the elevators (e.g., idle, moving, or in use), and the control mechanisms for handling requests.
+Designing an **Elevator System** requires handling multiple floors, multiple elevators, and managing requests to call the elevator. The system should ensure that elevators serve the floors efficiently, with a priority on minimizing wait times for users. We'll need to consider different types of requests (e.g., going up or down, floors that need to be served), the state of the elevators (e.g., idle, moving, or in use), and the control mechanisms for handling requests.
 
 ### Design Overview:
 The system will include the following components:
